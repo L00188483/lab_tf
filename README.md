@@ -8,4 +8,4 @@ FridayHITT delivers High-Intensity Interval Training (HIIT) running routes every
   3.	Security groups allow only essential traffic between components and from IP ranges.
   4.	Routing tables and an Internet Gateway were configured to allow controlled access to the internet and block any unauthorised communication.
   5.	A jump box was to be deployed in the public subnet, to securely connect to the EC2 instance in the private subnet using SSH.
-  6.	 The design supports multiple Availability Zones (AZs) for high availability.
+  6.	The design supports multiple Availability Zones (AZs) for high availability.
